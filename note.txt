@@ -1,0 +1,14 @@
+Problemes a corriger
+--------------------
+
+.Entities :
+---------
+1-Packaging
+2-Importation des foreign keys de type objet
+3-Les declarations des attributs et arguments dans construteurs doivent etre 
+ordonne de la meme order que declarer dans les tables database
+
+.Controllers :
+------------
+1-Packaging
+2-Importation des foreign keys de type objet
